@@ -1,0 +1,23 @@
+* {
+    font-family: Arial;
+}
+
+input[type="text"] {
+    width: 600px
+}
+
+table {
+    width: 100px;
+    margin: 0 auto;
+}
+
+input[type="submit"] {
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    padding: 5px;
+    margin: 0 10px 20px 0;
+    border: 1px solid #ccc;
+    background: rgb(9, 9, 9);
+    border-radius: 8px 8px 8px 8px;
+}
