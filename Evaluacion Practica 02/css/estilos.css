@@ -1,0 +1,54 @@
+    body {
+        background-color: #D5303E;
+    }
+    
+    form {
+        text-align: center;
+        margin: auto;
+        width: 800px;
+        background-color: rgb(208, 255, 0);
+        font-family: 'Times New Roman';
+    }
+    
+    img {
+        width: 150px;
+        margin: 20px;
+        padding: auto;
+    }
+    
+    h1 {
+        scroll-behavior: auto;
+    }
+    
+    select {
+        background: tomato;
+        border: none;
+        color: white;
+        font-size: 14px;
+        height: 30px;
+        padding: 5px;
+        width: 250px;
+        outline: none;
+        overflow: hidden;
+        position: relative;
+        pointer-events: visibleStroke;
+    }
+    
+    input[type="submit"] {
+        font-size: 15px;
+        font-family: Verdana, Helvetica;
+        font-weight: lighter;
+        color: white;
+        background: tomato;
+        border: 1px;
+        width: 110px;
+        height: 25px;
+    }
+    
+    input[type="number"] {
+        font-size: 15px;
+        font-family: Verdana, Helvetica;
+        font-weight: lighter;
+        color: white;
+        background: tomato;
+    }
